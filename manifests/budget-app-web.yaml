@@ -1,4 +1,4 @@
- cat budget-app-web.yaml
+# cat budget-app-web.yaml
 # budget-app-web.yaml
 
 apiVersion: apps/v1
